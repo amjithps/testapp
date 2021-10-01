@@ -1,4 +1,4 @@
-# ProcessMaker-testapp
+# testapp
 
 ***How to run**
 
